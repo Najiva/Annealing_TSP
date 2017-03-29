@@ -8,7 +8,6 @@
 #include <bits/stdc++.h>
 //#include <cstdlib>
 
-
 using namespace std;
 
 #ifndef FLIGHT_H
